@@ -1,0 +1,27 @@
+html {
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+}
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+  text-align: center;
+}
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+.comingsoon {
+  color: aquamarine;
+}
+.paragraph {
+  font-size: 21px;
+  color: gray;
+}
+.footer {
+  color: gray;
+  text-align: right;
+}
